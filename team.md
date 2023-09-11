@@ -1,7 +1,7 @@
-Noah Gooby
 
-CS senior by day pizzaman by night (with toppings)
+### Noah Gooby
+CS Senior by day pizza man by night (with toppings)
 
-Benjamin Griepp
-
+### Benjamin Griepp
 I code and design and big ball and shot call 😎
+    
